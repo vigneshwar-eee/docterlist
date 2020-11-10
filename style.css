@@ -1,0 +1,256 @@
+.rectangle {
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    width: 1439px;
+    height: 76px;
+  }
+
+  .logo {
+    color: #5C4BFF;
+    font-family: Rubik;
+    font-size: 33px;
+    line-height: 39px;
+    text-align: left;
+  }
+
+  .provider-login {
+    color: #5C4BFF;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: left;
+  }
+
+  .header-text {
+    display: flex ; 
+    justify-content: space-between;
+    margin-top: 19px;
+    /*width: 1439px;
+     height: 76px; */
+
+    
+  }
+
+  .header{
+    width: 1271px;
+  }
+
+  .rectangle-input {
+    background-color: #FFFFFF;
+    border: 1px solid #999999;
+    border-radius: 8px;
+    width: 238px;
+    height: 48px;
+  }
+
+  .sort-dropdown {
+    background-color: #FFFFFF;
+    border: 1px solid #999999;
+    border-radius: 8px;
+    width: 111px;
+    height: 38px;
+  }
+
+  .search {
+    color: #FF7D6B;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: left;
+  }
+
+  .search-box{
+    margin: 10px 0px;
+    padding-left: 15px;
+  }
+
+  .rectangle-copy-3 {
+    background-color: #FFE7E4;
+    border: 1px solid #FF7D6B;
+    border-radius: 8px;
+    width: 239px;
+    height: 48px;
+  }
+
+  .listCol{
+       
+  }
+
+  .lineOne{
+    display: inline-block;
+    /* padding-top: 24px; */
+  }
+
+  .sameLine{
+    display: inline-block;
+  }
+
+  .card-common{
+    padding: 26px 40px;
+  }
+
+  .price {
+    float: right;
+
+  }
+
+
+  .rectangle-card {
+    background-color: #FFFFFF;
+    border: 1px solid #DADADA;
+    border-radius: 4px;
+    width: 1008px;
+    height: 198px;
+  }
+
+  .doc-name {
+    color: #000000;
+    font-family: Inter;
+    font-size: 34px;
+    line-height: 41px;
+    text-align: left;
+  }
+
+  .doc-post {
+    color: #999999;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: left;
+  }
+
+    .bold {
+        font-weight: bold;
+    }
+
+  .rating-info {
+    color: #000000;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: left;
+  }
+
+  .rating-right{
+    margin-right: 32px;
+  }
+
+  .oval {
+    background-color: #D8D8D8;
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+  }
+
+  .oval-style{
+    margin: 0px 11px;
+  }
+
+
+  .book-now-3 {
+    background-color: #FF7D6B;
+    border-radius: 8px;
+    width: 179px;
+    height: 48px;
+  }
+
+  .book-now {
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: left;
+  }
+
+  .book-now-button {
+    background-color: #FF7D6B;
+    border-radius: 8px;
+    width: 179px;
+     height: 48px; 
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* height: 100%; */
+
+  }
+
+.right-side{
+  float: right;
+}
+
+.rating-header{
+  margin-top: 30px;
+}
+
+.checked {
+  color: orange;
+}
+
+.card-det{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.card-header{
+  font-weight: bold;
+}
+
+
+.card-header-providers {
+  color: #000000;
+  font-family: Inter;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: left;
+
+  align-items: center;
+  display: flex;
+}
+
+.card-head{
+  display: flex;
+  justify-content: space-between;
+  width: 1008px;
+}
+
+.sort-by {
+  color: #999999;
+  font-family: Inter;
+  font-size: 16px;
+  line-height: 19.36px;
+  text-align: left;
+}
+
+.sort-by-text {
+  margin-right: 10px;
+}
+
+.price-value {
+  color: #5C4BFF;
+  font-family: Inter;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: left;
+}
+
+.sort-border{
+  margin-right: 16px;
+}
+  
+.oval-chat {
+  background-color: #FF7D6B;
+  border-radius: 100%;
+  box-shadow: 0 6px 14px 3px rgba(0, 0, 0, 0.13);
+  width: 64px;
+  height: 64px;
+}
+
+.path {
+  background-color: #FFFFFF;
+}
+
+
+.chat {
+ position: fixed;
+}
